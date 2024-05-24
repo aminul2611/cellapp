@@ -67,7 +67,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Lelin Chakma"
+                            android:text="Md. Aminul Islam"
                             android:textSize="18sp"
                             android:textStyle="bold" />
 
@@ -75,7 +75,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="5dp"
-                            android:text="+8801554946338"
+                            android:text="+8801796662066"
                             android:textSize="13sp" />
                     </LinearLayout>
 
